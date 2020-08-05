@@ -1,0 +1,16 @@
+npm init -y
+
+npm i express morgan body-parser dotenv
+
+npx create-react-app client
+
+npm i mongoose
+
+npm i express-jwt jwt lodash google-auth-library node-fetch express-validator jsonwebtoken @sendgrid/mail
+
+
+// frontend
+
+npm i axios js-cookie jsonwebtoken react-facebook-login react-google-login react-router-dom react-toastify
+
+npm install nodemailer
